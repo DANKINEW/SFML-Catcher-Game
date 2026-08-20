@@ -8,3 +8,5 @@ How to check your score:
 20-50 score - Good.
 50-70 score - Master.
 70+ score - God.
+
+THERE IS NO READY TO PLAY .exe FILE IN RELEASES YOU NEED TO UNZIP THE ARCHIVE AND THEN LAUNCH sfml.exe
